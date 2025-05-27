@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruben\\source\\repos\\Splek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB47236-F948-4A1F-B7BB-C4EEE6BA232A}|..\\TestProject\\TestProject.csproj|c:\\users\\ruben\\source\\repos\\testproject\\transform layer tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846B8E0-103A-5CB1-87A9-CE3E4B624EC5}|..\\DataTransformLayer\\DataTransformLayer.csproj|c:\\users\\ruben\\source\\repos\\datatransformlayer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846B8E0-103A-5CB1-87A9-CE3E4B624EC5}|..\\DataTransformLayer\\DataTransformLayer.csproj|c:\\users\\ruben\\source\\repos\\datatransformlayer\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45DEB7-89AA-44BD-BA72-7D50C2B4E9E7}|..\\ConnectorLayer\\ConnectorLayer.csproj|c:\\users\\ruben\\source\\repos\\connectorlayer\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45DEB7-89AA-44BD-BA72-7D50C2B4E9E7}|..\\ConnectorLayer\\ConnectorLayer.csproj|c:\\users\\ruben\\source\\repos\\connectorlayer\\connectorlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transform Layer Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\source\\repos\\TestProject\\Transform Layer Tests.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\Transform Layer Tests.cs",
+              "ToolTip": "C:\\Users\\Ruben\\source\\repos\\TestProject\\Transform Layer Tests.cs",
+              "RelativeToolTip": "..\\TestProject\\Transform Layer Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:55:29.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\source\\repos\\DataTransformLayer\\MainController.cs",
+              "RelativeDocumentMoniker": "..\\DataTransformLayer\\MainController.cs",
+              "ToolTip": "C:\\Users\\Ruben\\source\\repos\\DataTransformLayer\\MainController.cs",
+              "RelativeToolTip": "..\\DataTransformLayer\\MainController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:23:35.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\source\\repos\\DataTransformLayer\\Game.cs",
+              "RelativeDocumentMoniker": "..\\DataTransformLayer\\Game.cs",
+              "ToolTip": "C:\\Users\\Ruben\\source\\repos\\DataTransformLayer\\Game.cs",
+              "RelativeToolTip": "..\\DataTransformLayer\\Game.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:23:28.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectorLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Ruben\\source\\repos\\ConnectorLayer\\ConnectorLayer.csproj",
+              "RelativeDocumentMoniker": "..\\ConnectorLayer\\ConnectorLayer.csproj",
+              "ToolTip": "C:\\Users\\Ruben\\source\\repos\\ConnectorLayer\\ConnectorLayer.csproj",
+              "RelativeToolTip": "..\\ConnectorLayer\\ConnectorLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T08:34:06.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sender.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\source\\repos\\ConnectorLayer\\Sender.cs",
+              "RelativeDocumentMoniker": "..\\ConnectorLayer\\Sender.cs",
+              "ToolTip": "C:\\Users\\Ruben\\source\\repos\\ConnectorLayer\\Sender.cs",
+              "RelativeToolTip": "..\\ConnectorLayer\\Sender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:19:51.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

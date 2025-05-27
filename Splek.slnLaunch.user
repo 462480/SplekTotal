@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Splek.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\UserInterfaceSplek\\UserInterfaceSplek.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
